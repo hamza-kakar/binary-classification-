@@ -1,3 +1,3 @@
 # binary-classification- 
-assidnment 2
+assignment-2
 p13-6102
